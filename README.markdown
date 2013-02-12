@@ -5,6 +5,6 @@
     $ cd ~/Library/Application\ Support/BBEdit/
     $ mkdir Packages
     $ cd Packages
-    $ git clone git://github.com/kelseyhightower/bbedit-puppet.git
+    $ git clone git://github.com/kelseyhightower/bbedit-puppet.git puppet.bbpackage
 
 Restart BBedit
